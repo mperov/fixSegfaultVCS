@@ -2,7 +2,7 @@
 
 ## Problem
 
-### segfault in VCS_vQ-2020.03
+### segfault in VCS Q-2020.03
 ```bash
 Command line: ./simv
 
