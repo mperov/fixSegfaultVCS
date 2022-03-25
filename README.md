@@ -203,3 +203,8 @@ CPU Time:      2.420 seconds;       Data structure size:  11.7Mb
 Sun Mar 20 09:31:25 2022
 ```  
 As you see we done it! We aren't facing segmentation fault!
+
+## Automatization
+
+To patch library without manualy operation there is [patcher.py](https://github.com/mperov/fixSegfaultVCS/blob/main/patcher.py)  
+Attention, before running **patcher.py** make backup of library which you would like to patch.
