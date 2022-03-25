@@ -206,5 +206,5 @@ As you see we done it! We aren't facing segmentation fault!
 
 ## Automatization
 
-To patch library without manualy operation there is [patcher.py](https://github.com/mperov/fixSegfaultVCS/blob/main/patcher.py)  
+To patch library without manually operation there is [patcher.py](https://github.com/mperov/fixSegfaultVCS/blob/main/patcher.py)  
 Attention, before running **patcher.py** make backup of library which you would like to patch.
