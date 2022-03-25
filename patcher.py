@@ -10,7 +10,7 @@ import mmap
 
 if __name__ == "__main__":
     if len (sys.argv) < 2:
-        print("usage: ./patcher.py /path/to/lib/libvcsnew.so")
+        print("usage: ./patcher.py /path/to/library.so")
         sys.exit(-1)
 
     path2lib = sys.argv[1]
