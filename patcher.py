@@ -16,7 +16,7 @@ def patch(path2lib, addresses):
         for address in addresses:
             fh.seek(address)
             fh.write(NEW_BYTES)
-            print(path2lib + ' is patched by ' + str(NEW_BYTES) + ' on positin - ' + hex(address))
+            print(path2lib + ' is patched by ' + str(NEW_BYTES) + ' on position - ' + hex(address))
 
 if __name__ == "__main__":
     if len (sys.argv) < 2:
