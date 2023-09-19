@@ -1,5 +1,8 @@
 # How to solve segmentation fault on VCS
 
+## Preamble
+### This is education project. It is made to allow studying computer science, computer architectures and debugging binary codes.
+
 ## Problem
 
 ### segfault in VCS Q-2020.03
