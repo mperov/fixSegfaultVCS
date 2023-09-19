@@ -1,5 +1,8 @@
 # How to solve segmentation fault on VCS which is run without -full64 option
 
+## Preamble
+### This is education project. It is made to allow studying computer science, computer architectures and debugging binary codes.
+
 ## Problem
 
 ### segfault in VCS R-2020.12-SP1
