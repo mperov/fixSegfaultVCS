@@ -4,6 +4,8 @@
 #
 # Copyright (c) 2022 Maksim Perov <coder@frtk.ru>
 #
+# This is education project. It is made to allow studying computer science, computer architectures and debugging binary codes.
+#
 
 import sys
 
